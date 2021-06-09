@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../Robbie"
+		},
+		{
+			"name": "Raspberry Bitty",
+			"path": "../../Raspberry Bitty"
+		},
+		{
+			"name": "Robot1",
+			"path": "../../Robot1"
+		},
+		{
+			"name": "Transmitter",
+			"path": ".."
+		},
+		{
+			"name": "Reciever",
+			"path": "../../Reciever"
+		},
+		{
+			"path": "../../../../../git/Robbie"
+		}
+	],
+	"settings": {}
+}
